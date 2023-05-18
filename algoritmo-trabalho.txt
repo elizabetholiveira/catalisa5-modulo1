@@ -1,0 +1,152 @@
+Algoritmo de ir para o trabalho home office pela manhã partindo da primeira hora ativa do dia com variáveis do dia-a-dia sendo desconsideradas ao máximo para ser considerada uma rotina ideal:
+
+-Acordar
+-Abrir os olhos
+-Se espreguiçar
+-Sentar na cama
+-Virar para fora da cama
+-Levantar da cama
+-Virar de frente para a cama
+-Retirar a coberta da cama
+-Retirar o travesseiro da cama
+-Esticar o lençol da cama no colchão
+-Prender o lençol da cama emabaixo do colchão
+-Pegar a coberta
+-Sacudir a coberta
+-Dobrar a coberta
+-Colocar a coberta dobrada na ponta da cama
+-Pegar o travesseiro
+-Bater no travesseiro
+-Colocar o travesseiro na ponta da cama oposta a da coberta dobrada
+-Ir para o banheiro
+-Acender a luz do banheiro
+-Ficar de frente para a pia
+-Pegar o tubo de pasta de dente
+-Desenroscar a tampa do tubo de pasta de dente
+-Colocar a tampa do tubo de pasta de dente no apoio da pia
+-Colocar o tubo de pasta de dente no apoio da pia
+-Pegar a escova de dentes
+-Tirar a tampa da escova de dentes
+-Colocar a tampa da escova de dentes no apoio da pia
+-Pegar o tubo da pasta de dente
+-Colocar pasta de dente nas cerdas da escova de dentes
+-Colocar o tubo da pasta de dente no apoio da pia
+-Pegar a tampa do tubo de pasta de dente
+-Enroscar a tampa do tubo de pasta de dente no bocal do tubo de pasta de dente para fechá-lo
+-Guardar o tubo de pasta de dente
+-Colocar a escova de dentes paralela a boca com a pasta virada na direção dos dentes
+-Abrir a boca
+-Escovar os dentes inferiores
+-Escovar os dentes superiores
+-Fechar a boca com os dentes à mostra
+-Escovar a parte da frente dos dentes com movimentos circulares
+-Abrir a boca
+-Escovar a língua
+-Tirar a escova de dentes da boca
+-Abrir a torneira
+-Lavar a escova de dentes com água
+-Colocar a tampa da escova de dentes na escova de dentes para proteger as cerdas
+-Guardar a escova de dentes
+-Fazer uma concha com as mãos
+-Encher a concha das mãos com a água da torneira
+-Levar a concha das mãos até a boca
+-Encher a boca de água
+-Bochechar
+-Cuspir a água na pia
+-Lavar as mãos
+-Passar as mãos molhadas nos lábios
+-Fechar a torneira
+-Pegar a toalha de rosto
+-Secar as mãos
+-Secar o rosto
+-Pendurar a toalha de rosto
+-Ir para o quarto
+-Abrir as gavetas
+-Escolher uma roupa limpa
+-Pegar a roupa  limpa
+-Ir para o banheiro
+-Trancar a porta do banheiro
+-Colocar as roupas limpas no gancho
+-Tirar as roupas sujas do seu corpo
+-Colocar as roupas sujas no cesto de de roupas sujas
+-Abrir a porta do box do banheiro
+-Entrar no box do banheiro
+-Fechar a porta do box do banheiro
+-Ligar o chuveiro
+-Se molhar embaixo do chuveiro
+-Pegar a escova  de cabelo
+-Pentear o cabelo
+-Guardar a escova de cavelo
+-Fechar o chuveiro
+-Pegar o sabonete
+-Passar o sabonete nas mãos
+-Guardar o sabonete
+-Passar as mãos com a espuma de sabonete no corpo
+-Abrir o chuveiro
+-Se enxaguar para tirar o sabonete do corpo
+-Fechar o chuveiro
+-Apertar o cabelo para tirar o excesso de água
+-Abrir a porta do box do banheiro
+-Pegar a toalha
+-Secar o cabelo apertando com a toalha
+-Secar o corpo com a toalha
+-Sair do box do banheiro
+-Pendurar a toalha
+-Pegar a roupa limpa
+-Se vestir
+-Destrancar a porta do banheiro
+-Ir tomar café da manhã
+(essa parte é altamente variável podendo ter tanta coisa escrita aqui que eu não consigo escolher só uma ou alguma que seja mais "neutra", então vou ficar apenas com "ir tomar café da manhã")
+-Lavar a louça do café da manhã
+-Secar as mãos
+-Ir para o banheiro
+-Acender a luz do banheiro
+-Ficar de frente para a pia
+-Pegar o tubo de pasta de dente
+-Desenroscar a tampa do tubo de pasta de dente
+-Colocar a tampa do tubo de pasta de dente no apoio da pia
+-Colocar o tubo de pasta de dente no apoio da pia
+-Pegar a escova de dentes
+-Tirar a tampa da escova de dentes
+-Colocar a tampa da escova de dentes no apoio da pia
+-Pegar o tubo da pasta de dente
+-Colocar pasta de dente nas cerdas da escova de dentes
+-Colocar o tubo da pasta de dente no apoio da pia
+-Pegar a tampa do tubo de pasta de dente
+-Enroscar a tampa do tubo de pasta de dente no bocal do tubo de pasta de dente para fechá-lo
+-Guardar o tubo de pasta de dente
+-Colocar a escova de dentes paralela a boca com a pasta virada na direção dos dentes
+-Abrir a boca
+-Escovar os dentes inferiores
+-Escovar os dentes superiores
+-Fechar a boca com os dentes à mostra
+-Escovar a parte da frente dos dentes com movimentos circulares
+-Abrir a boca
+-Escovar a língua
+-Tirar a escova de dentes da boca
+-Abrir a torneira
+-Lavar a escova de dentes com água
+-Colocar a tampa da escova de dentes na escova de dentes para proteger as cerdas
+-Guardar a escova de dentes
+-Fazer uma concha com as mãos
+-Encher a concha das mãos com a água da torneira
+-Levar a concha das mãos até a boca
+-Encher a boca de água
+-Bochechar
+-Cuspir a água na pia
+-Lavar as mãos
+-Passar as mãos molhadas nos lábios
+-Fechar a torneira
+-Pegar a toalha de rosto
+-Secar as mãos
+-Secar o rosto
+-Pendurar a toalha de rosto
+-Ir para a mesa de trabalho
+-Puxar a cadeira da mesa de trabalho
+-Sentar na cadeira da mesa de trabalho
+-Regular a cadeira confortavelmente com relação à mesa de trabalho
+-Abrir o notebook
+-Ligar o teclado bluetooth
+-Ligar o mouse bluetooth
+-Colocar a senha do notebook no notebook
+-Começar a trabalhar
